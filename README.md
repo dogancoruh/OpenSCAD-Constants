@@ -1,6 +1,6 @@
 # OpenSCAD-Constants
 
-Constants for bolts, nuts and other stuff to use in OpenSCAD projects.
+Constants for standard size bolts, nuts and other stuff to use in OpenSCAD projects.
 
 To use add this line
 ```javascript
